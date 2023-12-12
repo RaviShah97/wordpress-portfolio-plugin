@@ -140,4 +140,10 @@ Feel free to customize the appearance of your portfolio items by adjusting the C
 
 ---
 
+# Plugin Images
+
+![Menu Overview](images/Menu%20Overview.png)
+
+
+
 *Note: Feel free to adjust Elementor styling and explore additional customization options according to your specific project needs.*
