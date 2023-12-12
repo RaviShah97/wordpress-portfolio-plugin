@@ -81,6 +81,8 @@ Feel free to customize the appearance of your portfolio items by adjusting the C
 
 4. Choose the downloaded JSON file (e.g., `Custom-Portfolio-Template.json`) and click **Import Now**.
 
+5. Set the condition to "Portfolio Items" or  "Portfolio" whichever you see when you try to publish it.
+
 ### 2. Add Code to functions.php
 
 1. Open the `functions.php` file of your theme (located in the theme folder).
