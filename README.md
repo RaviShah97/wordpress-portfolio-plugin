@@ -174,7 +174,7 @@ Feel free to customize the appearance of your portfolio items by adjusting the C
 
 ![Shortcode Result-3](https://vistavibes.in/wp-content/uploads/2023/12/Shortcode-Result-3.png)
 
-## 9) Count
+## 9) Controlling the number of Portfolio Posts using Count
 
 ![Count](https://vistavibes.in/wp-content/uploads/2023/12/Count.png)
 
